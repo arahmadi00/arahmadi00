@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arahmadi00
 - 👀 I’m interested in GIS
-- 🌱 I’m currently in Russia
 - 📫 How to reach me arahmadi00@gmail.com
 
 <!---
